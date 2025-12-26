@@ -27,10 +27,5 @@ Estudante de ADS (5º semestre) com trajetória em suporte técnico, migrando pa
 
 ---
 
-### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=viniciusvog&show_icons=true&theme=dark)
-
----
-
 ### 🤝 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-vogel-980a422a1/)
