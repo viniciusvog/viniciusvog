@@ -2,7 +2,7 @@
 
 **Desenvolvedor Backend Java em Formação | Acadêmico de ADS**
 
-Estudante de ADS (5º semestre) com trajetória em suporte técnico, migrando para o Desenvolvimento Backend, focado no aprendizado sólido da linguagem **Java**. Atualmente, dedico-me a dominar a lógica de programação e o versionamento com **Git** através de projetos práticos, com o objetivo de aprofundar conhecimentos em bancos de dados com **SQL**.
+Estudante de ADS (5º semestre) com trajetória em suporte técnico, migrando para o Desenvolvimento Backend, focado no aprendizado da linguagem **Java**. Atualmente, dedico-me a dominar a lógica de programação e o versionamento com **Git** através de projetos práticos, com o objetivo de aprofundar conhecimentos em bancos de dados com **SQL**.
 
 ---
 
