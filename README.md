@@ -2,7 +2,7 @@
 
 **Desenvolvedor Backend Java em Formação | Acadêmico de ADS**
 
-Estudante de ADS (5º semestre) com trajetória em suporte técnico, migrando para o Desenvolvimento Backend, focado no aprendizado sólido da linguagem **Java**. Atualmente, dedico-me a dominar a lógica de programação e o versionamento com **Git** através de projetos práticos, com o objetivo de avançar para o ecossistema **Spring Boot** e aprofundar conhecimentos em bancos de dados com **SQL**.
+Estudante de ADS (5º semestre) com trajetória em suporte técnico, migrando para o Desenvolvimento Backend, focado no aprendizado sólido da linguagem **Java**. Atualmente, dedico-me a dominar a lógica de programação e o versionamento com **Git** através de projetos práticos, com o objetivo de aprofundar conhecimentos em bancos de dados com **SQL**.
 
 ---
 
@@ -16,14 +16,9 @@ Estudante de ADS (5º semestre) com trajetória em suporte técnico, migrando pa
 ### 🛠️ Tecnologias e Estudos
 
 **Em desenvolvimento prático:**
-- **Java:** Praticando fundamentos, lógica e orientação a objetos.
+- **Java:** Praticando fundamentos, foco em lógica, orientação a objetos e coleções.
 - **Git & GitHub:** Versionamento de projetos e colaboração.
-
-**Próximos passos no roteiro:**
 - **Manipulação de Dados (SQL):** Aprofundamento em consultas e modelagem de bancos de dados (Próximo objetivo).
-- **Spring Boot:** Planejado para iniciar após a consolidação da base em Java e SQL.
-- **Testes Unitários:** Interesse em aprender para garantir a qualidade do código.
-- **Domínio da Linguagem Java:** Foco em lógica, Orientação a Objetos e coleções (Em progresso).
 
 ---
 
